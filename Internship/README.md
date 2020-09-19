@@ -7,6 +7,7 @@ My project deals with preprocessing of data and exploratory data analysis on dat
 ![The cleaned data table](data.png)
 
 The bar plots gives the results as trips made per hour of the day, per day of the week, and per month of the year.
- Finally we find out the month in which  highest trips are made
+ 
 ![The bar plot  table](bar.png)
+Finally we find out the month in which  highest trips are made.
 ![The bar plot  table](bar2.png)
